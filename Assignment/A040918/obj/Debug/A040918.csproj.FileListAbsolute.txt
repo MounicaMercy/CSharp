@@ -1,0 +1,7 @@
+D:\c# code\Assignment\A040918\bin\Debug\A040918.exe.config
+D:\c# code\Assignment\A040918\bin\Debug\A040918.exe
+D:\c# code\Assignment\A040918\bin\Debug\A040918.pdb
+D:\c# code\Assignment\A040918\obj\Debug\A040918.csprojAssemblyReference.cache
+D:\c# code\Assignment\A040918\obj\Debug\A040918.csproj.CoreCompileInputs.cache
+D:\c# code\Assignment\A040918\obj\Debug\A040918.exe
+D:\c# code\Assignment\A040918\obj\Debug\A040918.pdb

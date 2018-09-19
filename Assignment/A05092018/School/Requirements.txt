@@ -1,0 +1,43 @@
+﻿In School version1(Schoolv1):
+   Input:
+    a)Name of the Student.
+	b)Roll No of the Student.
+	c)Grade of the Student.
+   Validations:
+    a)Enter the Grade from 1 to 12 only.
+	b)Grade should not be 0.
+	c)In each Grade only 22 Students information can only be inserted(Max size of Grade=22). 
+   Output:
+    Grade and Count(in each grade)
+In School version2(Schoolv2):
+ Input:
+    a)Name of the Student.
+	b)Roll No of the Student.
+	c)Grade of the Student.
+	d)Subject Names.
+	e)Marks of each Subject.
+   Validations:
+    a)Enter the Grade from 1 to 12 only.
+	b)Grade should not be 0.
+	c)In each Grade only 22 Students information can only be inserted(Max size of Grade=22).
+	d)Based on input,find the highest marks in each subject and display that student name.
+   Output:
+    a)Grade and Count(in each grade).
+	b)Subject Name, Student Name and Marks(Highest marks in each subject).
+In School version3(Schoolv3):
+ Input:
+    a)Name of the Student.
+	b)Roll No of the Student.
+	c)Grade of the Student.
+	d)Subject Names.
+	e)Marks of each Subject.
+   Validations:
+    a)Enter the Grade from 1 to 12 only.
+	b)Grade should not be 0.
+	c)In each Grade only 22 Students information can only be inserted(Max size of Grade=22). 
+	d)Based on input,find the highest marks in each subject and display that student name.
+	e)Based on input, calculate percentage and display the rank(ascending order) based on percentages.
+   Output:
+    a)Grade and Count(in each grade).
+	b)Subject Name, Student Name and Marks(Highest marks in each subject).
+	c)Rank,Name of the student and Percentage.

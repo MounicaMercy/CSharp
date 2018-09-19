@@ -1,0 +1,9 @@
+D:\c# code\Assignment\A140918\bin\Debug\netstandard2.0\A140918.deps.json
+D:\c# code\Assignment\A140918\bin\Debug\netstandard2.0\A140918.dll
+D:\c# code\Assignment\A140918\bin\Debug\netstandard2.0\A140918.pdb
+D:\c# code\Assignment\A140918\obj\Debug\netstandard2.0\A140918.csprojAssemblyReference.cache
+D:\c# code\Assignment\A140918\obj\Debug\netstandard2.0\A140918.csproj.CoreCompileInputs.cache
+D:\c# code\Assignment\A140918\obj\Debug\netstandard2.0\A140918.AssemblyInfoInputs.cache
+D:\c# code\Assignment\A140918\obj\Debug\netstandard2.0\A140918.AssemblyInfo.cs
+D:\c# code\Assignment\A140918\obj\Debug\netstandard2.0\A140918.dll
+D:\c# code\Assignment\A140918\obj\Debug\netstandard2.0\A140918.pdb

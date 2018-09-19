@@ -1,0 +1,7 @@
+D:\c# code\Practice\P120918\bin\Debug\P120918.exe.config
+D:\c# code\Practice\P120918\bin\Debug\P120918.exe
+D:\c# code\Practice\P120918\bin\Debug\P120918.pdb
+D:\c# code\Practice\P120918\obj\Debug\P120918.csproj.CoreCompileInputs.cache
+D:\c# code\Practice\P120918\obj\Debug\P120918.exe
+D:\c# code\Practice\P120918\obj\Debug\P120918.pdb
+D:\c# code\Practice\P120918\obj\Debug\P120918.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+Man of the Match
+ Conditions:
+  a)Winning Team
+  b)Highest Scorer
+Winning Team
+Highest Score of each Team
+Display score of the winning team
